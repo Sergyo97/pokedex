@@ -1,3 +1,31 @@
 .grass {
     background-color: #74CB48;
 }
+
+.fire {
+    background-color: #F57D31;
+}
+
+.water {
+    background-color: #6493EB;
+}
+
+.bug {
+    background-color: #A7B723;
+}
+
+.electric {
+    background-color: #F9CF30;
+}
+
+.ghost {
+    background-color: #70559B;
+}
+
+.psychic {
+    background-color: #FB5584;
+}
+
+.normal {
+    background-color: #AAA67F;
+}
